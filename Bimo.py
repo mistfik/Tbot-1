@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-TOKEN = '6546108522:AAEwLQ48wPi84x_5Bl4jLSo5j3x9LVXMqRI'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 ADMIN_ID = '' # айди кому приходит сообщение
 ADMIN_ID2 = '' # айди кому приходит сообщение
